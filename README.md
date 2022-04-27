@@ -14,7 +14,7 @@
 - 💬 Ask me about HTML/CSS
 - 📫 How to reach me: [Twitter](https://twitter.com/_Slogllykop_) or [Discord](https://discord.com/users/382449851792752641)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I worked as an GFX Artist in a studio for 3 years.
+- ⚡ Fun fact: I worked as an GFX Artist for 3 years.
 
 ## Languages I work with
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
