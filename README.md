@@ -24,7 +24,7 @@
 ## Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=Slogllykop&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=gotham" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slogllykop&theme=gotham" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Slogllykop)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Slogllykop&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 
 ## Other things 💖
 ### I am a GFX/VFX artist with 4 Years of experience
