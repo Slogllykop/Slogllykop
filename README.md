@@ -1,4 +1,4 @@
-## Hey coders! 👋
+<h2 align="center"> Hey coders! 👋 </h2>
 ## About Me 🤔
 ### > I am Indraneel, currently pursuing a Bachelor's degree in [Computer Engineering](https://en.wikipedia.org/wiki/Computer_engineering)
 ### > Student of [Pune University](http://www.unipune.ac.in/)
