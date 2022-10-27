@@ -65,10 +65,6 @@
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Slogllykop&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=gotham" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slogllykop&theme=dracula" />
-<img src="https://streak-stats.demolab.com?user=Slogllykop&theme=dracula&hide_border=true&border_radius=0)](https://git.io/streak-stats"/> -->
-
 <!-- Deisgn -->
 <p width="100%" align="center">Design</p>
 
