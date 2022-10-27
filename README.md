@@ -40,25 +40,47 @@
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
+<!-- Languages and frameworks -->
+<p width="100%">
+ <h2 align="center"> Languages and Frameworks
+</p>
 
-
+<!-- Frontend related -->
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
+[![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)</br>
+ 
+<!-- Other than frontend -->
+[![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.geeksforgeeks.org/c-plus-plus/)
+[![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/)
+[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) </br>
 
+<!-- Remaining -->
+[![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+<!-- Seperator -->
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Slogllykop&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=gotham" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slogllykop&theme=dracula" />
 <img src="https://streak-stats.demolab.com?user=Slogllykop&theme=dracula&hide_border=true&border_radius=0)](https://git.io/streak-stats"/> -->
 
+<!-- Deisgn -->
+<p width="100%" align="center">Design</p>
 
-
-I mainly use [Photoshop](https://www.adobe.com/in/products/photoshop.html), 
-[Cinema 4D](https://www.maxon.net/en/cinema-4d),
-[Premiere Pro](https://www.adobe.com/in/products/premiere.html)
-but I also use 
-[After Effects](https://www.adobe.com/in/products/aftereffects.html) and
-[Bender](https://www.blender.org/) occasionaly.
+<!-- design badges -->
+[![](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/in/products/aftereffects.html) </br>
+[![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/) </br>
+<p align="center">
+ <img width="40px" align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Cinema-4D-Logo.png" />
+ Cinema 4D
+</p>
  
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
