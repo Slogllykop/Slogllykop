@@ -1,7 +1,10 @@
 <img align="center" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/header.png" />
 
-## Aim 🎯
-### > Become a [Full Stack Developer](https://www.w3schools.com/whatis/whatis_fullstack.asp)
+<details>
+ <summary>Github Stats</summary>
+ <p>ajwef</p>
+ <p>ajwef</p>
+</details>
 
 ## Status
 - 🔭 I’m currently working on javascript projects
