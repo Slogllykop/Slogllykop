@@ -1,8 +1,4 @@
-<h2 align="center"> Hey coders! 👋 </h2>
-<h2 align="center">  About Me 🤔 </h2>
-### > I am Indraneel, currently pursuing a Bachelor's degree in [Computer Engineering(https://en.wikipedia.org/wiki/Computer_engineering)
-### > Student of [Pune University](http://www.unipune.ac.in/)
-### > I reside in [Pune](https://en.wikipedia.org/wiki/Pune), India
+<img align="center" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/header.png" />
 
 ## Aim 🎯
 ### > Become a [Full Stack Developer](https://www.w3schools.com/whatis/whatis_fullstack.asp)
