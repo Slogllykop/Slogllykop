@@ -72,21 +72,18 @@
 [![](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html) </br>
-[![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/) </br>
-<p align="center">
- <img width="40px" align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Cinema-4D-Logo.png" />
- Cinema 4D
-</p>
+[![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![](https://raw.githubusercontent.com/Slogllykop/Slogllykop/b0517025bc8760ecfe46d0f2946e9e810d495d2a/img/badges/cinema_4d_badge.svg)](https://www.maxon.net/en/cinema-4d)
+[![](https://raw.githubusercontent.com/Slogllykop/Slogllykop/bc2c15ad9c53b569e50a588400bbd5c25f40d623/img/badges/photopea_badge.svg)](https://www.photopea.com/) </br>
  
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
 <!-- Profile views counter card -->
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=Slogllykop&style=for-the-badge&color=FF69B4" />
-</p>
+</br> <img align="center" src="https://komarev.com/ghpvc/?username=Slogllykop&style=for-the-badge&color=FF69B4" /> </br>
 
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
+<!-- Footer -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/footer.png" />
