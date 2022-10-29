@@ -40,10 +40,21 @@
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
-<!-- Languages and frameworks -->
+<!-- Contact/Connect -->
 <p width="100%">
- <h2 align="center"> Languages and Frameworks
+ <h2 align="center"> Connect with me! </2>
 </p>
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indraneel-sinare)
+[![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_Slogllykop_)
+[![](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/382449851792752641/)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/indraneel.py/)
+
+<!-- Seperator -->
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
+
+<!-- Languages and frameworks -->
+<p width="100%">Languages and Frameworks</p>
 
 <!-- Frontend related -->
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
