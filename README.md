@@ -18,7 +18,7 @@
 <!-- Github Stats -->
 <details>
  
- <summary align="center"><h2>Github Stats</h2></summary>
+ <summary align="center"><h3>Github Stats</h3></summary>
  
  <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg" />
@@ -41,57 +41,125 @@
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
 <!-- Contact/Connect -->
-<p width="100%">
- <h2 align="center"> Connect with me!
-</p>
+<h3 align="center">Connect with me!</h3>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indraneel-sinare)
-[![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_Slogllykop_)
-[![](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/382449851792752641/)
-[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/indraneel.py/)
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/indraneel-sinare">
+   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/_Slogllykop_">
+   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/382449851792752641">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/indraneel.py">
+   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+ 
+</p>
 
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
 <!-- Languages and frameworks -->
-<p width="100%">Languages and Frameworks</p>
-
-<!-- Frontend related -->
-[![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com)
-[![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
-[![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)</br>
+<h3 align="center">Languages and Frameworks</h3>
+ 
+<p align="center">
+ 
+  <a href="https://www.javascript.com">
+   <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+  <a href="https://www.w3schools.com">
+   <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com">
+   <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="https://getbootstrap.com">
+   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+  <a href="https://tailwindcss.com">
+   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
+ 
+</p>
  
 <!-- Other than frontend -->
-[![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.geeksforgeeks.org/c-plus-plus/)
-[![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/)
-[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) </br>
+<p align="center">
+ 
+  <a href="https://www.geeksforgeeks.org/c-plus-plus">
+   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="https://www.geeksforgeeks.org/c-programming-language">
+   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <a href="https://www.python.org">
+   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </a>
+  <a href="https://www.markdownguide.org">
+   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
+ 
+</p>
 
 <!-- Remaining -->
-[![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<p align="center">
+ 
+  <a href="https://nodejs.org/en">
+   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+  <a href="https://git-scm.com">
+   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+ 
+</p>
 
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
 <!-- Deisgn -->
-<p width="100%" align="center">Design</p>
+<h3 align="center">Design</h3>
 
 <!-- design badges -->
-[![](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
-[![](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html) </br>
-[![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![](https://raw.githubusercontent.com/Slogllykop/Slogllykop/b0517025bc8760ecfe46d0f2946e9e810d495d2a/img/badges/cinema_4d_badge.svg)](https://www.maxon.net/en/cinema-4d)
-[![](https://raw.githubusercontent.com/Slogllykop/Slogllykop/bc2c15ad9c53b569e50a588400bbd5c25f40d623/img/badges/photopea_badge.svg)](https://www.photopea.com/) </br>
+<p align="center">
+ 
+  <a href="https://www.adobe.com/products/photoshop.html">
+   <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html">
+   <img alt="Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html">
+   <img alt="After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
+  </a>
+ 
+</p>
+
+<p align="center">
+ 
+  <a href="https://www.canva.com">
+   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  </a>
+  <a href="https://www.maxon.net/en/cinema-4d">
+   <img alt="Cinema 4d" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/b0517025bc8760ecfe46d0f2946e9e810d495d2a/img/badges/cinema_4d_badge.svg">
+  </a>
+  <a href="https://www.photopea.com">
+   <img alt="Photopea" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/bc2c15ad9c53b569e50a588400bbd5c25f40d623/img/badges/photopea_badge.svg">
+  </a>
+ 
+</p>
  
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
 
 <!-- Profile views counter card -->
-</br> <img align="center" src="https://komarev.com/ghpvc/?username=Slogllykop&style=for-the-badge&color=FF69B4" /> </br>
+</br>
+<p align="center">
+ <img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=Slogllykop&style=for-the-badge&color=FF69B4" />
+</p>
+</br>
 
 <!-- Seperator -->
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/main/img/seperator.png" />
