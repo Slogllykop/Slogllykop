@@ -42,7 +42,7 @@
 
 <!-- Contact/Connect -->
 <p width="100%">
- <h2 align="center"> Connect with me! </2>
+ <h2 align="center"> Connect with me!
 </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indraneel-sinare)
