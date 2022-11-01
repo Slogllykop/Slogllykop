@@ -24,11 +24,11 @@
   <img width="100%" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg" />
  </p>
  <p align="center">
-  <img width="49%"  align="left" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg" />
   <img width="49%" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/4-productive-time.svg" />
  </p>
  <p>
-  <img width="49%" align="left" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg" />
   <img width="49%" src="https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg" />
  </p>
  <p align="center">
@@ -66,6 +66,7 @@
 <!-- Languages and frameworks -->
 <h3 align="center">Languages and Frameworks</h3>
  
+<!--  Frontend -->
 <p align="center">
  
   <a href="https://www.javascript.com">
@@ -122,7 +123,7 @@
 <!-- Deisgn -->
 <h3 align="center">Design</h3>
 
-<!-- design badges -->
+<!-- adobe apps -->
 <p align="center">
  
   <a href="https://www.adobe.com/products/photoshop.html">
@@ -137,6 +138,7 @@
     
 </p>
 
+<!-- other than adobe -->
 <p align="center">
  
   <a href="https://www.canva.com">
