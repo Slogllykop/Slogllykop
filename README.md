@@ -143,10 +143,10 @@
    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   </a>
   <a href="https://www.maxon.net/en/cinema-4d">
-   <img alt="Cinema 4d" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/b0517025bc8760ecfe46d0f2946e9e810d495d2a/img/badges/cinema_4d_badge.svg">
+   <img alt="Cinema 4d" width="104" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/594df2398dc2d4d5c884baa3c891b7e46a69a0dc/img/badges/cinema_4d_badge_2.svg">
   </a>
   <a href="https://www.photopea.com">
-   <img alt="Photopea" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/bc2c15ad9c53b569e50a588400bbd5c25f40d623/img/badges/photopea_badge.svg">
+   <img alt="Photopea" width="104" src="https://raw.githubusercontent.com/Slogllykop/Slogllykop/c7d230829b685db15e344e1f8d994089a023eb05/img/badges/photopea_badge_2.svg">
   </a>
  
 </p>
